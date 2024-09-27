@@ -3,4 +3,4 @@
 #        Hi there👋 and welcome to my page! 
 
 
-![github-Readme-stats](https://github-readme-stats.vercel.app/api?username=FacelessOwl)
+![github-Readme-stats](https://github-readme-stats.vercel.app/api?username=FacelessOwl&show=reviews)
